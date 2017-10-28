@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/ianstahlp/weather-admin/issues"
   },
-  "homepage": "https://github.com/ianstahlp/weather-admin#readme"
+  "homepage": "https://github.com/ianstahlp/weather-admin#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "moment": "^2.19.1",
+    "weather-js": "^2.0.0"
+  }
 }
